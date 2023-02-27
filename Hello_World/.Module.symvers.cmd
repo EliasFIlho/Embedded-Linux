@@ -1,0 +1,1 @@
+cmd_/home/elias/Documentos/LinuxDriver_Dev/Hello_World/Module.symvers := sed 's/\.ko$$/\.o/' /home/elias/Documentos/LinuxDriver_Dev/Hello_World/modules.order | scripts/mod/modpost -m -a  -o /home/elias/Documentos/LinuxDriver_Dev/Hello_World/Module.symvers -e -i Module.symvers   -T -

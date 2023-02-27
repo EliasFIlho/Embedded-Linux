@@ -1,0 +1,1 @@
+cmd_/home/elias/Documentos/LinuxDriver_Dev/Hello_World/Hello_world.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/elias/Documentos/LinuxDriver_Dev/Hello_World/Hello_world.ko /home/elias/Documentos/LinuxDriver_Dev/Hello_World/Hello_world.o /home/elias/Documentos/LinuxDriver_Dev/Hello_World/Hello_world.mod.o;  true

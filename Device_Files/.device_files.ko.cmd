@@ -1,0 +1,1 @@
+cmd_/home/elias/Documentos/LinuxDriver_Dev/Device_Files/device_files.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/elias/Documentos/LinuxDriver_Dev/Device_Files/device_files.ko /home/elias/Documentos/LinuxDriver_Dev/Device_Files/device_files.o /home/elias/Documentos/LinuxDriver_Dev/Device_Files/device_files.mod.o;  true

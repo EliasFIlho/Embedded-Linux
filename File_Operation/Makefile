@@ -1,5 +1,5 @@
 KDIR ?= /lib/modules/`uname -r`/build
-obj-m += Hello_world.o
+obj-m += file_operation.o
 
 all:
 	make -C $(KDIR) M=$(PWD) modules

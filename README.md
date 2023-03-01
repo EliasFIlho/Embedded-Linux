@@ -22,4 +22,4 @@ Módulo trabalhando com arquivos de operação, para as seguintes operações de
 | Open            | Imprime a string "File Open Function"|
 | Release         | Imprime a string "File Release Function"|
 | Write           | Imprime a string "File Write Function" |
-| Read            | Imprime a string "File Read Function"
+| Read            | Imprime a string "File Read Function"   |
